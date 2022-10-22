@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<metadata>
+
+<identifier>Minecraft-JE-Indev</identifier>
+
+<mediatype>software</mediatype>
+
+<collection>minecraftarchive</collection>
+
+<creator>Mojang</creator>
+
+<description><div>An assortment of Minecraft Java Edition Indev clients.</div><div><br /></div><div>All the jars are thought to be completely unmodified. The JSON files were manually written, as the game did not come with JSON files when these versions were current.</div><div><br /></div><div>If you have any contributions, or if you want to learn more, or even just join in with our growing community, join the Omniarchive Discord server: https://discord.gg/h45wxnE</div><div><br /></div><div><div><div>https://archive.org/details/Minecraft-JE-Beta</div><div>https://archive.org/details/Minecraft-JE-Alpha</div><div>https://archive.org/details/Minecraft-JE-Infdev</div>https://archive.org/details/Minecraft-JE-Classic</div>https://archive.org/details/Minecraft-JE-Pre-Classic</div></description>
+
+<language>eng</language>
+
+<scanner>Internet Archive HTML5 Uploader 1.6.3</scanner>
+
+<subject>minecraft,omniarchive</subject>
+
+<title>Minecraft Java Edition Indev</title>
+
+<publicdate>2018-06-01 11:44:13</publicdate>
+
+<uploader>halfofakebab2@gmail.com</uploader>
+
+<addeddate>2018-06-01 11:44:13</addeddate>
+
+<curation>[curator]validator@archive.org[/curator][date]20180601115833[/date][comment]checked for malware[/comment]</curation>
+
+<backup_location>ia906706_5</backup_location>
+
+<collection>vintagesoftware</collection>
+
+</metadata>
